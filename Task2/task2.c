@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// received help from Shane O
+
 //array of function pointers 
 int (*operation_ptrs[5]) (int a, int b);
 
